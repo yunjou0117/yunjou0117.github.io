@@ -50,5 +50,11 @@
     <image:image>
       <image:loc>http://yunjou0117.github.io/images/poster_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://yunjou0117.github.io/images/word.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yunjou0117.github.io/images/word_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>

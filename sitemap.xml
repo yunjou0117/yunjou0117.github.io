@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://yunjou0117.github.io/index.html</loc>
-    <lastmod>2019-04-17</lastmod>
+    <lastmod>2019-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,9 +10,6 @@
     </image:image>
     <image:image>
       <image:loc>http://yunjou0117.github.io/images/11.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://yunjou0117.github.io/images/3.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://yunjou0117.github.io/images/4.png</image:loc>
@@ -46,6 +43,12 @@
     </image:image>
     <image:image>
       <image:loc>http://yunjou0117.github.io/images/12.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yunjou0117.github.io/images/%E6%88%90%E5%93%81%E5%9C%96-crop-u602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yunjou0117.github.io/images/3-crop-u703.png</image:loc>
     </image:image>
   </url>
 </urlset>

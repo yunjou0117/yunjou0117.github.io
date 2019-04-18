@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yunjou0117.github.io" resolutions="1x,2x" timestamp="1555517332278">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yunjou0117.github.io" resolutions="1x,2x" timestamp="1555568931310">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="19966070" ref="index"/>
-    <file name="index.css" crc="4167627051" ref="index"/>
+    <file name="master_a-master.css" crc="4292409330" ref="index"/>
+    <file name="index.css" crc="107420382" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,15 +11,16 @@
     <file name="museconfig.js" crc="4153641093" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
     <file name="1-crop-u94.jpg" crc="451705744" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="11.png" crc="222284301" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3.png" crc="3997282187" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="4.png" crc="137448138" seo="true" ref="index">
@@ -55,6 +56,14 @@
     <file name="12.png" crc="73250983" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="成品圖-crop-u602.jpg" crc="237540711" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="3-crop-u703.png" crc="4047147153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="3826975135" seo="true" mt="1555516337185" redirect="true"/>
+  <file name="index.html" crc="4258824211" seo="true" mt="1555568801560" redirect="true"/>
 </manifest>

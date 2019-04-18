@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yunjou0117.github.io" resolutions="1x,2x" timestamp="1555579848418">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yunjou0117.github.io" resolutions="1x,2x" timestamp="1555580060697">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3992494563" ref="index"/>
-    <file name="index.css" crc="336762779" ref="index"/>
+    <file name="index.css" crc="4068298893" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -62,9 +62,9 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="home-favicon.ico" crc="65986175" ref="index"/>
-    <file name="13930x9825.jpg" crc="533421600" seo="true" ref="index">
+    <file name="13725x9313.jpg" crc="533421600" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3870967788" seo="true" mt="1555579772890" redirect="true"/>
+  <file name="index.html" crc="4049800255" seo="true" mt="1555580047183" redirect="true"/>
 </manifest>

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yunjou0117.github.io" resolutions="1x,2x" timestamp="1555569305316">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yunjou0117.github.io" resolutions="1x,2x" timestamp="1555570113611">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4292409330" ref="index"/>
@@ -64,6 +64,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="home-favicon.ico" crc="65986175" ref="index"/>
   </folder>
-  <file name="index.html" crc="299789973" seo="true" mt="1555569187569" redirect="true"/>
+  <file name="index.html" crc="506952258" seo="true" mt="1555570072467" redirect="true"/>
 </manifest>

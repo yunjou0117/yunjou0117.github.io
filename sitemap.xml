@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://yunjou0117.github.io/images/1-crop-u94.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://yunjou0117.github.io/images/11.png</image:loc>
     </image:image>
     <image:image>
@@ -49,6 +46,9 @@
     </image:image>
     <image:image>
       <image:loc>http://yunjou0117.github.io/images/3-crop-u703.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yunjou0117.github.io/images/13930x9825.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

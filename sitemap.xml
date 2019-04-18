@@ -21,12 +21,6 @@
       <image:loc>http://yunjou0117.github.io/images/7.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yunjou0117.github.io/images/8.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://yunjou0117.github.io/images/9.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://yunjou0117.github.io/images/man.png</image:loc>
     </image:image>
     <image:image>
@@ -46,6 +40,15 @@
     </image:image>
     <image:image>
       <image:loc>http://yunjou0117.github.io/images/3-crop-u703.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yunjou0117.github.io/images/3-crop-u703_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yunjou0117.github.io/images/poster.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yunjou0117.github.io/images/poster_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
